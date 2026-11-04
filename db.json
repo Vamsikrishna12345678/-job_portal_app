@@ -1,0 +1,236 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "React Developer",
+      "company": "ABC Technologies",
+      "location": "Hyderabad",
+      "salary": "₹6 - ₹8 LPA",
+      "type": "Full Time"
+    },
+    {
+      "id": "2",
+      "title": "Frontend Developer",
+      "company": "Tech Solutions",
+      "location": "Bangalore",
+      "salary": "₹5 - ₹8 LPA",
+      "type": "Full Time"
+    },
+    {
+      "id": "3",
+      "title": "Python Developer",
+      "company": "XYZ Software",
+      "location": "Chennai",
+      "salary": "₹4 - ₹7 LPA",
+      "type": "Full Time"
+    },
+    {
+      "id": "4",
+      "title": "React Intern",
+      "company": "Startup Labs",
+      "location": "Remote",
+      "salary": "₹15,000 / month",
+      "type": "Internship"
+    },
+    {
+      "title": "sql developer",
+      "company": "hirex tech",
+      "location": "vijayawada",
+      "salary": "20,000",
+      "type": "Part Time",
+      "id": "vG_bsC0gOt8"
+    },
+    {
+      "title": "java developer",
+      "company": "neuro tech",
+      "location": "pune",
+      "salary": "50,000",
+      "type": "Full Time",
+      "id": "SHwwAbxRWaQ"
+    },
+    {
+      "title": "mern stack",
+      "company": "abc tech",
+      "location": "hyderabad",
+      "salary": "12,000",
+      "type": "Full Time",
+      "id": "oCKlrYja4AM"
+    },
+    {
+      "title": "AI INTERN",
+      "company": "AI LOGICS ltd",
+      "location": "Hyderabad",
+      "salary": "20,000",
+      "type": "Internship",
+      "id": "7Joa4ardJnM"
+    },
+    {
+      "title": "REACTJS DEVELOPER",
+      "company": "DEN_SOFTWARES",
+      "location": "HYDERABAD",
+      "salary": "4,00,000",
+      "type": "Full Time",
+      "employerEmail": "dens@gmail.com",
+      "id": "ldaHaG6llSg"
+    },
+    {
+      "title": "FULL  STACK DEVELOPER",
+      "company": "ZENPACT",
+      "location": "vijayawada",
+      "salary": "4 LPA",
+      "type": "Full Time",
+      "employerEmail": "hr@gmail.com",
+      "id": "UFiYLpJjGiE"
+    },
+    {
+      "title": "Technical Support Engineer",
+      "company": "Diebold",
+      "location": "hyderabad",
+      "salary": "4 LPA",
+      "type": "Full Time",
+      "employerEmail": "hr@gmail.com",
+      "id": "PI0o_g4bbxA"
+    }
+  ],
+  "applications": [
+    {
+      "name": "vamsi",
+      "email": "vamsi@gmail.com",
+      "resume": "vamsi_resume",
+      "coverLetter": "sd",
+      "jobId": "2",
+      "userEmail": "vamsi@gmail.com",
+      "status": "Shortlisted",
+      "id": "LF5RWBYlpMc"
+    },
+    {
+      "name": "hari",
+      "email": "hari@gmail.com",
+      "resume": "hari_resume",
+      "coverLetter": "sd",
+      "jobId": "1",
+      "userEmail": "hari@gmail.com",
+      "status": "Accepted",
+      "id": "Zfa5tOEYTbI"
+    },
+    {
+      "name": "hari",
+      "email": "hari@gmail.com",
+      "resume": "hari_resume",
+      "coverLetter": "sql",
+      "jobId": "vG_bsC0gOt8",
+      "userEmail": "hari@gmail.com",
+      "status": "Under Review",
+      "id": "IDgSiNLDF0k"
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "resume": "krishna_resume",
+      "coverLetter": "sd",
+      "jobId": "2",
+      "userEmail": "krishna@gmail.com",
+      "status": "Shortlisted",
+      "id": "6BZm2mCYsWU"
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "resume": "vamsi krishna_resume.pdf",
+      "jobId": "oCKlrYja4AM",
+      "userEmail": "krishna@gmail.com",
+      "status": "Accepted",
+      "id": "kc6k3t8d77o"
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "resume": "vamsi krishna_resume.pdf",
+      "jobId": "1",
+      "userEmail": "krishna@gmail.com",
+      "status": "Rejected",
+      "id": "20OIjWcX304"
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "resume": "VAMSI_KRISHNA_KELAM_Resume.pdf",
+      "jobId": "vG_bsC0gOt8",
+      "userEmail": "krishna@gmail.com",
+      "status": "Applied",
+      "appliedAt": "2026-09-29T07:14:33.741Z",
+      "id": "fS-8qHoL2F0"
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "resume": "VAMSI_KRISHNA_KELAM_Resume.pdf",
+      "jobId": "ldaHaG6llSg",
+      "userEmail": "krishna@gmail.com",
+      "status": "Shortlisted",
+      "appliedAt": "2026-09-29T08:10:28.524Z",
+      "id": "BQr1iQRznqg"
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "resume": "Kelam_Vamsi_Krishna_Resume (1).pdf",
+      "jobId": "7Joa4ardJnM",
+      "userEmail": "krishna@gmail.com",
+      "status": "Applied",
+      "appliedAt": "2026-09-30T08:43:46.369Z",
+      "id": "p-_icfbcCuw"
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "resume": "Kelam_Vamsi_Krishna_Resume.pdf",
+      "jobId": "SHwwAbxRWaQ",
+      "userEmail": "krishna@gmail.com",
+      "status": "Applied",
+      "appliedAt": "2026-10-02T16:38:34.939Z",
+      "id": "TSBg3yjos9c"
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "resume": "Kelam_Vamsi_Krishna_Resume.pdf",
+      "jobId": "UFiYLpJjGiE",
+      "userEmail": "krishna@gmail.com",
+      "status": "Accepted",
+      "appliedAt": "2026-10-02T16:41:44.532Z",
+      "id": "paY_TFGXzpA"
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "resume": "Kelam_Vamsi_Krishna_Resume (1).pdf",
+      "jobId": "PI0o_g4bbxA",
+      "userEmail": "krishna@gmail.com",
+      "status": "Shortlisted",
+      "appliedAt": "2026-10-02T17:25:48.726Z",
+      "id": "cosERGrrf0g"
+    },
+    {
+      "name": "ramesh",
+      "email": "ramesh@gmail.com",
+      "resume": "Kelam_Vamsi_Krishna_Resume.pdf",
+      "jobId": "PI0o_g4bbxA",
+      "userEmail": "ramesh@gmail.com",
+      "status": "Shortlisted",
+      "appliedAt": "2026-10-10T07:14:24.124Z",
+      "id": "YZo3Oab_ObE"
+    },
+    {
+      "name": "mani",
+      "email": "mani@gmail.com",
+      "resume": "Kelam_Vamsi_Krishna_Resume.pdf",
+      "jobId": "PI0o_g4bbxA",
+      "userEmail": "mani@gmail.com",
+      "status": "Shortlisted",
+      "appliedAt": "2026-10-12T10:37:44.226Z",
+      "id": "8v9QtNs1qi4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
